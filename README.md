@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 I'm Hazrat Yahya Ashrafi
 <!--
 **yahya-ashrafi/yahya-ashrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![IMG_20211018_165255](https://user-images.githubusercontent.com/66359010/138984924-d7281216-ef7e-4c40-854f-8170254b88c7.jpg)
 
 - 🔭 I’m currently working on Dopaminergic neurons on VTA by HH model type
 - 🌱 I’m currently learning Computational Neuroscience 
