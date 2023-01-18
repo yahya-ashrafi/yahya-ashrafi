@@ -4,11 +4,8 @@
 - 🔭 I’m currently working on Dopaminergic neurons on VTA by HH model type
 - 👯 I’m currently working with Supervisor: Dr. Alireza Valizadeh, Advisor: Dr. Mojtaba Madadi Asl
 - 🤔 I’m looking for help with Prof. Boris Gutkin
-- 💬 Ask me about Mohammad Shaif Hussainyar
 - 📫 Personal Email: yahyanazary20@gmail.com
-- � How could you reach me: https://www.linkedin.com/in/yahya-ashrafi-bb0b20219/ &  https://www.facebook.com/yahya.panahi.18
--            
-- 
+- � How could you reach me: https://www.linkedin.com/in/yahya-ashrafi-bb0b20219/ &  https://www.facebook.com/yahya.panahi
 <!--
 **yahya-ashrafi/yahya-ashrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
